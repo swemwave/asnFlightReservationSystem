@@ -1,0 +1,29 @@
+[
+  {
+    "Code": "T8193",
+    "FlightCode": "VA-9950",
+    "Airline": "Vertical Airways",
+    "Name": "a",
+    "Citizenship": "a",
+    "Cost": 270,
+    "IsActive": true
+  },
+  {
+    "Code": "L2608",
+    "FlightCode": "VA-9950",
+    "Airline": "Vertical Airways",
+    "Name": "Asad",
+    "Citizenship": "Arif",
+    "Cost": 270,
+    "IsActive": true
+  },
+  {
+    "Code": "W8079",
+    "FlightCode": "TB-7564",
+    "Airline": "Try a Bus Airways",
+    "Name": "Mike ",
+    "Citizenship": "Read",
+    "Cost": 442,
+    "IsActive": true
+  }
+]
